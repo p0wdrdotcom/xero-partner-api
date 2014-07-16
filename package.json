@@ -1,0 +1,11 @@
+{ "name" : "xero-partner-api"
+, "description" : "Library for wrapping up the oAuth Xero Partner API handing all the oAuth and SSL client Auth"
+, "version" : "0.0.1"
+, "directories" : { "lib" : "./lib" }
+, "main" : "index.js"
+, "author" : "Geoff McIver <geoff@p0wdr.com.com>"
+, "repository" : { "type":"git" }
+, "dependencies": {
+        "oauth": "git+ssh://git@github.com:p0wdrdotcom/node-oauth.git"
+    }
+}
