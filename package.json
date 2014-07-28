@@ -10,6 +10,6 @@
 , "author" : "Geoff McIver <geoff@p0wdr.com.com>"
 , "repository" : { "type":"git" }
 , "dependencies": {
-        "oauth": "git+ssh://git@github.com:p0wdrdotcom/node-oauth.git"
+        "oauth": "git+ssh://git@bitbucket.org:coretech/node-oauth.git"
     }
 }
